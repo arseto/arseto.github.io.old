@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "A New Take: My Entrance to Agile Process (2)"
+date:   2016-02-28 16:22:40
+published: false
+categories: opinion
+---

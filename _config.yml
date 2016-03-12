@@ -1,26 +1,29 @@
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+paginate: 10
+
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: The World Geeks Only Know
+email: satriyo.796@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    I'm not an expert, yet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://satriyo796.github.io" # the base hostname & protocol for your site
+twitter_username: satriyo796
+github_username:  satriyo796
+
+# Build settings
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+gems:
+  - jekyll-gist
+  - jekyll-paginate
