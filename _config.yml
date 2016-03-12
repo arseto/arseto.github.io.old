@@ -23,8 +23,8 @@ github_username:  satriyo796
 
 # Build settings
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 gems:
   - jekyll-gist
   - jekyll-paginate
