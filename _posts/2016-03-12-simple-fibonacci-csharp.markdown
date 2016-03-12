@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple Fibonacci Series with Recursion in C#"
 date:   2016-03-12 11:32:40 +0700
-categories: csharp
+categories: programming
 ---
 
 Fibonacci series are a series of integers having following pattern:
