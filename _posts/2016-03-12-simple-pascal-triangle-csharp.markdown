@@ -14,13 +14,15 @@ Visual:
 
 Pascal triangle can be defined as follows:
 
-```
+{% highlight tex %}
 f(x, 0) = 1
 
 f(x, x) = 1
 
 f(x, y) = f(x-1, y-1) + f(x-1, y)
-```
+{% endhighlight %}
+
+
 With _x_ as row number and _y_ as column number (relative to first element of the row).
 
 Therefore, the C# implementation of for getting the value of one single element (knowing the row and the column) will be:
