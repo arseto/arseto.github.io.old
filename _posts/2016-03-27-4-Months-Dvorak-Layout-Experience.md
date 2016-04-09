@@ -28,7 +28,7 @@ To me, it was totally worth the effort. Dvorak layout has proven its claim, at l
 * Less fatigue (shorter finger travel than QWERTY)
   This one point may differ, according to your main typing language.
 
-Dvorak layout feels more natural to type. One part because the vocal and vowels typing hands are separated, thus allowing more probability for alternating (left-right-left) typing. And another part being the letter placements are specialized for english language. As for another language can still benefit from the first point (alternating typing hands).
+Dvorak layout feels more natural to type. One part because the vocal and consonant typing hands are separated, thus allowing more probability for alternating (left-right-left) typing. And another part being the letter placements are specialized for english language. As for another language can still benefit from the first point (alternating typing hands).
 
 I have been using dvorak layout for about 4 months now. I recently measured my typing speed with dvorak, it gave me about 50. I feel that number can still go up and may eventually catch up with my QWERTY speed then. But again, dvorak layout is not about speed, but comfort and accuracy.
 
