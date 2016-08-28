@@ -8,6 +8,8 @@ Back to open-source-driven \*nix platform after a half decade of _enterprise-$$$
 
 Each one of them has specific needs, and goal that has to be done, I am not saying here that one method is absolutely better than the other one. It's just the goal and the approach is different.
 
+<!--more-->
+
 **In my olden days: Waterfall and The Boss is Always Right**
 
 _Developers are just robots_. They do what they are told to be done. They are given a timeline without concerning their abilities and any probability of any unpredictable things that may happen. Again, one can argue to this. But again, because of the waterfall system applied, the developer can always be blamed for the delay, because the majority of bottleneck will occur in the development process.

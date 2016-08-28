@@ -10,6 +10,8 @@ Golang is one of new emerging programming languages like scala, kotlin, and swif
 
 > Go is an attempt to combine the ease of programming of an interpreted, dynamically typed language with the efficiency and safety of a statically typed, compiled language.
 
+<!--more-->
+
 After trying out golang for some times, I generally agreed that it is indeed easy to learn. If you are familiar with some of the popular programming languages now (java, C#, PHP, C, C++), you'll feel right at home, except for some syntastic sugars, but don't worry, golang has some reliable tools to check, lint, and even correct your code (wow, more on that later).
 
 To be honest, when first time seeing the code, I really thought that the syntax is 'beautiful' (in my opinion, others' opinions may differ). Look at this piece of code:

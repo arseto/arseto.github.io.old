@@ -8,6 +8,8 @@ published: true
 
 One of my colleague in the office uses dvorak layout for his keyboard, and I asked, "Why bother?". And he said, "Try it, and you'll know the answer". But I wasn't convinced, yet.
 
+<!--more-->
+
 In my free time I decided to do my own research. One point that I found out is that QWERTY layout was developed to fix key jamming issue (because the typist can type faster than the fallback mechanism of the hammers) by slowing down the typing speed (the corectness of this theory is debateable). And the popularity the QWERTY has now is purely because of its headstart, and a lot of people and industry has already accustomed to this layout, and made it difficult to change to the new keyboard layout.
 
 Dvorak's layout, in the other hand, is created based on research by dr. August Dvorak. The research aims to create a keyboard layout that is more efficient and less prone to causing injury. He considered the word frequency (US Dvorak Layout is optimized for english-US language), the vocal and vowel positioning, among others. More detail can be found in [Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard). To prove that claims, I decided to give it a shot...

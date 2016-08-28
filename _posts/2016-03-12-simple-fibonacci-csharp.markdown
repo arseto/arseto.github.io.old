@@ -14,6 +14,8 @@ Fibonacci series are a series of integers having following pattern:
 The pattern is F<sub>n</sub> = F<sub>n-1</sub> + F<sub>n-2</sub>
 With F<sub>0</sub> = 0 and F<sub>1</sub> = 1
 
+<!--more-->
+
 A simple implementation if this logic in csharp is as follows (with recursion):
 
 {% highlight csharp %}

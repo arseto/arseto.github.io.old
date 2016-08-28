@@ -12,6 +12,8 @@ Source [Wikipedia](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
 Visual:
 <a href="http://electrosphere.files.wordpress.com/2011/03/250px-pascals_triangle_5-svg.png"><img class="size-full wp-image-63 " title="250px-Pascal's_triangle_5.svg" src="http://electrosphere.files.wordpress.com/2011/03/250px-pascals_triangle_5-svg.png" alt="" width="250" height="180" /></a>
 
+<!--more-->
+
 Pascal triangle can be defined as follows:
 
 {% highlight tex %}
