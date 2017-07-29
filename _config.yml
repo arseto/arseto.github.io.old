@@ -18,7 +18,7 @@ email: satriyo.796@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Some codes, some rants, and something else
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://satriyo796.github.io" # the base hostname & protocol for your site
+url: "http://arseto.github.io" # the base hostname & protocol for your site
 baseurl: /
 twitter_username: satriyo796
 github_username:  satriyo796

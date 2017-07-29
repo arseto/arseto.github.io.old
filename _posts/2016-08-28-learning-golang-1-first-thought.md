@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning Golang #1 First Thought"
 date:   2016-08-28 13:18:00 +0700
-categories: programming language
+categories: programming golang
 published: true
 ---
 
