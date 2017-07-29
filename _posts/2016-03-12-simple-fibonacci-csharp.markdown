@@ -47,6 +47,6 @@ public static int[] GetSeries(int startIndex, int endIndex)
 
 Of course, the performance of recursive code is a bit slow :D. These codes are for experimental only.
 
-That's it, thanks for reading! Source code can be found [here](https://github.com/satriyo796/mono-algorithms/).
+That's it, thanks for reading! Source code can be found [here](https://github.com/arseto/mono-algorithms/).
 
 _Translated from my old [blog post](https://electrosphere.wordpress.com/2011/03/03/simple-recursion-fibonacci-series/)._

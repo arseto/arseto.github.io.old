@@ -80,7 +80,7 @@ Then you can just add import definition in your code:
 ```golang
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/satriyo796/api-gateway/helper"
+	"github.com/arseto/api-gateway/helper"
 	"net/http"
 )
 ```

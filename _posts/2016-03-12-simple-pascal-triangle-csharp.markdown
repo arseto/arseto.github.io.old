@@ -75,6 +75,6 @@ Performance wise, these codes are not efficient enough that recursion is used. A
 
 Happy Coding!
 
-Source code can be found [here](https://github.com/satriyo796/mono-algorithms/).
+Source code can be found [here](https://github.com/arseto/mono-algorithms/).
 
 _Translated from my old [blog post](https://electrosphere.wordpress.com/2011/03/04/another-recursion-pascals-triangle/)_
